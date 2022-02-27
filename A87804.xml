@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The knave of clubs. Otherwise called, A game at cards, and clubs trump. Doe you not see the knave turn'd up? rub and lose cards. Play faire, and above board.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87804</idno>
+            <idno type="STC">Wing K674</idno>
+            <idno type="STC">Thomason E245_18</idno>
+            <idno type="STC">ESTC R3756</idno>
+            <idno type="EEBO-CITATION">99872485</idno>
+            <idno type="PROQUEST">99872485</idno>
+            <idno type="VID">124922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E245[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The knave of clubs. Otherwise called, A game at cards, and clubs trump. Doe you not see the knave turn'd up? rub and lose cards. Play faire, and above board.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Shuffled, cut, and dealt faire, by Stysichorus,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut illustration on t.p.</note>
+                  <note>Attributed to George Wither in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Jan. 24. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124922:1" rendition="simple:additions"/>
+            <p>The Knave of Clubs.</p>
+            <p>Otherwiſe called, A GAME AT CARDS, And <hi>CL<g ref="char:V">Ʋ</g>BS</hi> Trump.</p>
+            <q>Doe you not ſee the Knave turn'd up?</q>
+            <q>Rub and loſe Cards.</q>
+            <q>Play faire, and above Boord.</q>
+            <figure>
+               <head>EDWARD FRYER</head>
+               <figDesc>depiction of the Knave of Clubs</figDesc>
+            </figure>
+            <p>
+               <add>Jan. 24. 1642</add> 
+               <hi>LONDON,</hi> Shufflled, cut, and dealt faire, by <hi>Styſichorus,</hi> Anno Dom. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="fable">
+            <pb facs="tcp:124922:2"/>
+            <pb n="1" facs="tcp:124922:2"/>
+            <head>A Game at Cards. <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Rometheus</hi> having laboured all night to prepare a monument for <hi>o<g ref="char:EOLhyphen"/>lympius,</hi> being as ſad and melancholy as he was poore, and miſe<g ref="char:EOLhyphen"/>rable, called to <hi>Monopoly,</hi> ſaying, what doſt thou think of the advancement we are like to injoy? Conſider now upon a ſure ground they goe, who ſeek to recover their own by Law. To whom he anſwered, Sir, I ſee how things are carried, for I have beene an eyewitneſſe of what hath paſt, but what remedy is there to be had a<g ref="char:EOLhyphen"/>gainſt the paſſions and private intereſts, and force and power of the potent.</p>
+            <p>Whilſt they were thus in private diſcourſe <hi>Curtius Decus</hi> came in and interrup<g ref="char:EOLhyphen"/>ted their further proceedings, who were challenged by <hi>Hepheſtion,</hi> to play at Cards; to play they goe, (and taking the firſt ſtoole that came to hand) <hi>Prome<g ref="char:EOLhyphen"/>theus</hi> ſat down, and for the ſpace of two houres, or more, he viewed <hi>Hepheſtions</hi> hand: The money went to and fro, but little loſt; fortune had ſhewed her ſelf ſo equall; and indeed he that was but a ſpectator had a ſhrewder pull for the ſtakes in his own boſome then the gameſters themſelves; they ſtirred up a greater gri<g ref="char:EOLhyphen"/>ping in him, then was in them; they both played to win, and to increaſe their ſtock, but he was not able to behold without paſſion, thinking it leſſe evill to play then to view anothers game ſo eagerly.</p>
+            <p>A game at Cards is a battle that is fought between two wits, or more, both be<g ref="char:EOLhyphen"/>ing confident of good ſucceſſe: both ſtake, and both defend themſelves the beſt they can: and after theſe gameſters had ſtill ſome few houres, more continued at their ſport, the Sea began to ſwell, the waves grew high, and the money began to ſwim from one ſide of the board to the other, their bloud waxed hot, and their choller began to kindle, they were now at their cloſe fights, watching but ad<g ref="char:EOLhyphen"/>vantage to boord each other, they grapled on each ſide for it hard, the Cards were ſhuffled, cut, and dealt oft, where they played their parts on both ſides, beſtirring themſelves luſtily, at laſt Clubs being turnd up trump, one loſt in that fight above an hundred crownes, whoſe game <hi>Prometheus</hi> viewing, was as ſenſible of grief for it, as himſelf, fearing that his eyes was the inſtrument of ill fortune to his game.</p>
+            <p>When gameſters bend themſelves to play for gain, they are like Pyrates that put themſelves upon the Sea purpoſely to catch ſome priſe, <hi>Capiat qui capere poteſt</hi> catch he, that can catch; let every one arm his own ſhip as well as he can, and have
+<pb n="2" facs="tcp:124922:3"/>an eye to the bullets that flie about his eares, and thoſe other warlike weapons which are uſefull in ſuch fights.</p>
+            <p>The Cards themſelves point out unto us, to tell us, who are fitly entertained in this play: not every common fellow; for if we ſhall but conſider the Kings, the Queens, and Knaves, or according to the Spaniard, Kings, Knights, and Souldiers, for ſo they call them, which are pictured and painted forth unto us, from the up<g ref="char:EOLhyphen"/>permoſt of all the other, to the loweſt, which is the Ace, we ſhall find no other portraitures or ſhapes, giving us to underſtand thereby that none ſhould play there<g ref="char:EOLhyphen"/>at but Kings, Queenes, and Knaves, or rather as the Spaniard, Kings, Gentry, and Souldiers, I can aſſure you, that in all the whole pack of Cards, you meet not with any Merchants, Tradesmen, Lawyers, nor Divines, they befit not ſuch profeſſions. The very Aces ſpeak as much unto us, for from the knave which is <hi>Sota</hi> the Souldier down to the Ace, which is the leaſt and laſt Card, there is no<g ref="char:EOLhyphen"/>thing, but ſpots or Aces too, which tells us that all (except the aforeſaid onely) that ſhall offer to play at Cards, are but aſſes, and ſuch an aſſe was the young man before ſpoken of, that played ſo long till clubs knocked him from off his ſtoole.</p>
+            <p>Yet will I not ſtrain this ſtring ſo hard, that I ſhall quite debarre men of thoſe noble entertainments, for I will not call him a gameſter that playes but now and then, for recreation, foure, ſix, ten, a dozen times in a year, or at a <hi>Chriſtmas,</hi> cannot hurt him much for ſport and paſtime, out to return to the former diſcourſe.</p>
+            <p>The quarrell being ended, to ſupper theſe gameſters went, with a freſh chal<g ref="char:EOLhyphen"/>lenge to return againe. When they had done, the winners went to ſupper to refreſh their hungry ſtomackes with meat, as they had done with money; the looſer to get more coyne, to ſupply his ſtock, who was more earneſt to gather a ſupply for the freſh onſet, then ever he was to pay his debts: but poore man his loſſes were ſunk ſo low, he could not get it up again; but returnes at the houre appointed, though both heartleſſe, and monileſſe; who being more vext at thoſe who would not aid his freſh quarrell with ſupply, then with them to whom he loſt before: He walk<g ref="char:EOLhyphen"/>ed in a great rage, up and downe the roome, puffing and blowing like a Bull, as if the whole chamber had been too little for him: one while he walkes athwart it, another while from end to end, then from corner to corner, finiging, and huffing, and chafing, nothing could content him; one while he railes againſt the City, ano<g ref="char:EOLhyphen"/>ther while againſt thoſe traitors that drew him on to play, and thoſe that were the cauſe of his comming thither; this is a baſe place (quoth he) a company of thieves, and cut throats. God damm- me (quoth he) I could runne my knife into their guts, what never a friend to furniſh me?</p>
+            <p>
+               <hi>Prometheus</hi> ſeeing <hi>Hepheſtion</hi> in ſuch a chafe, he calls for <hi>Monopoly;</hi> now quoth he is our time, either to get out of trouble, or to be ſent to the Hoſpitall, our eſtates now are but ſmall; we cannot long ſuſtain with it, let us take our for<g ref="char:EOLhyphen"/>tune,
+<pb n="3" facs="tcp:124922:3"/>either to ſup well, or to goe to bed with a jarre of water, all is one, as good to day, as to morrow, for to hold out much longer we cannot poſſibly expect; will it not doe well to put in for a third man after ſupper, adventuring to run my Lance among the reſt? yea ſaid <hi>Monopoly,</hi> if you hold it fit, and I will martiall things in that manner, that both with ſafety, and ſubtilty, I will view the field and give you notice of your adverſaries forces, how and where their ſtrength lies when it is your beſt to charge them home, &amp; when it is your beſt to make retre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſtill keeping a true account of their Cards and the numbers wherewith they are ſet upon you.</p>
+            <p>When <hi>Monopoly</hi> had ſpoken thus unto him, a man might have pulled the skinne over his eares, and he would never have felt it for joy, he was ready to leap out of it himſelf: oh this will I hope quoth he, prove an happy night, wherein we ſhall recover all our loſſes. Then they fell to diſputing a great while with themſelves, what ſignes would be beſt, whereby they might clearly underſtand each other; at laſt it was reſolved, that the beſt manner, of doing it would be by the buttons of his Jerkin, or the joynts of his fingers, according to the art of the Ga<g ref="char:EOLhyphen"/>muth when we learn firſt to ſing, and having made tryall thereof three or foure times, they grew ſo ready, and ſo perfect therein, that they underſtood one ano<g ref="char:EOLhyphen"/>ther as well by their tokens as their tongues.</p>
+            <p>Now were the challengers entred the Liſt, whilſt <hi>Prometheus</hi> was walking up and down the roome with his Roſario in his hand like an Hermite, <hi>Monopoly</hi> going out of the roome, that he might be the freer from being ſuſpected. They began to talk of falling afreſh to play, and <hi>Hepheſtion</hi> told them what had happened, and that in truth he could procure no meanes to ſtake with them, except they would build upon his promiſe, which they refuſed, and parting again he gave the poore young man a coldheart-aking <hi>ultimum vale.</hi>
+            </p>
+            <p>When <hi>Prometheus</hi> ſaw this good converſation was diſſolving, leaving his beads to keep their owne reckoning, he ſtepped forth, and ſaid unto them, ſince this Gentleman doth not play, ſo that you will not venter too great a game onely for entertainment, and to paſſe away ſome part of the night, that ſo good a work, may not ſleep for want of company, I will put my ſelf upon the Cards; the other two did gladly condiſcend thereto.</p>
+            <p>Then <hi>Prometheus,</hi> to egge them on the more, unbuttoned his Jerkin, that they might ſee the gold chaine which was about his necke, which hee told them hee would venture before hee would let the cauſe lye ſtill. Well, to play they went, and <hi>Prometheus</hi> began to loſe, who like a ſwaggering blade bitten, began to bleed, yet not having the patience to give over, threw the candleſtick after the pots, and the helve after the hatchet, till he had loſt all that he was able to make.</p>
+            <p>Then he called <hi>Monopoly,</hi> to furniſh him with a new ſupply of money as they
+<pb n="4" facs="tcp:124922:4"/>had appointed, who drew out an hundred Riyals, which he had for the purpoſe, gave them him, and departed the roome againe: But by and by he called for him againe, and intreated him to ſtay and ſnuffe the candles, and help them a little, that they might not hinder their play; which hee did very willingly: the other little imagining what a cunning plot was laid againſt them, <hi>Monopoly</hi> ſaid never a word, but ſtood ſtill and held his peace, ſo that no man living could have ſuſpe<g ref="char:EOLhyphen"/>cted him: for he never offered to caſt ſo much as an eye upon him, nor did he re<g ref="char:EOLhyphen"/>move his hand from his boſome, which gave <hi>Prometheus</hi> true knowledge how their games went; yet hee would ſometimes let them win purpoſely, leſt they ſhould not ſuſpect him; but when they deſired to ſeeme to give over the battell, and to retreat to leave the field &amp; be gone, then he perſwaded them to purpoſe, and followed the chaſe hotly; till he thought them ſafe in the net, to have them in his own hands, to doe what he pleaſed with them, then he ſet roundly upon them to bring them all under his ſubjection; in a ſhort ſpace and before many blowes were given in the battell, he had gained the field for that time, and appointed the field againe next morning.</p>
+            <p>The next day they met him againe, well charged with double Piſtolets, and well prepared for the warre, they threw downe whole handfuls of that upon the boord, ſome peeces of eight, ſome of foure, and ſome of two; making no more reckoning of them then if they had been braſſe, ſaying as they flung them downe, <hi>Coraggio coraggio (Senor Soldade)</hi> ſee you what here is to bee ſpent in your ſer<g ref="char:EOLhyphen"/>vice?</p>
+            <p>Although I am not ſo rich (quoth <hi>Prometheus</hi>) as to bee able to doe you ſer<g ref="char:EOLhyphen"/>vice with ſo large a ſupply of money; yet at leaſt my good will ſhall not be wan<g ref="char:EOLhyphen"/>ting to tend upon you, as your ſervant. I was about to tell you, that I did not doubt, but did long to ſee this faire company of theſe glittering men at Armes, to come and march under my colours. Then with all the policie that poſſibly hee could imagine, hee endeavoured to weary them out by little and little, giving them ſo much line, as he thought fit, to run themſelves out of breath; and when hee thought hee had an opportunity to ſtrike them both dead at once, hee turned up Clubs, and let fly a whole volly of ſhot at them, and ſo gained in few houres above five hundred crownes into his owne hands, they yeelding themſelves to his mercy, and gained quarter.</p>
+            <p>The maine battell being thus over-throwne, the two Captaines were faine to paſſe it over as patiently as they could, and try what freſh men they could levie, who were falne to raiſe new forces to encounter him the next day, who promiſed him new battell againe, if he durſt abide it. At which hee being ſo well refreſht, made little anſwer, onely he promiſed a meeting, and they met againe according<g ref="char:EOLhyphen"/>ly.
+<pb n="5" facs="tcp:124922:4"/>and he permitted them to gaine a little at the firſt as he did before; but when he thought good, thundred bullets about their eares, ſo as they did admire. But at laſt the moving of <hi>Monopoly's</hi> fingers up and downe his breaſt, was ſuſpected, and <hi>Decus</hi> deſired that he might goe forth of the roome, and <hi>Curtius</hi> alſo: for in<g ref="char:EOLhyphen"/>deed brother <hi>Decus</hi> (ſaid he) I muſt confeſſe I thought to have ſpoken of it once or twice before. <hi>Monopoly</hi> hearing this diſcourſe, ſteps away, and carries part of the money with him, ſo much as he had; but <hi>Prometheus</hi> was forced to ſtay: and wanting his guide to aid him, as he did before, he was ſo unprovided, and grew ſo weake, that hee was no wayes able to withſtand them; but perforce ſtayed whilſt they had righted themſelves upon him, who tooke all his weapons and ammunition from him, and ſent him away a clean Gentleman.</p>
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Prometheus</hi> fire ſtole from Heaven,</l>
+                  <l>To quicken his Idols vaine,</l>
+                  <l>The Arian Prelate <hi>Olympius</hi>
+                  </l>
+                  <l>For curſing Chriſt, was ſlaine,</l>
+                  <l>
+                     <hi>Monopoly</hi> his Countrey wrackes,</l>
+                  <l>By patents moſt unjuſt,</l>
+                  <l>For which good <hi>Curtius</hi> freely gave</l>
+                  <l>His body to the duſt.</l>
+                  <l>
+                     <hi>Hepheſtion</hi> is a Favourite,</l>
+                  <l>But <hi>Decies</hi> three are bleſt,</l>
+                  <l>The Father, Sonne, and Nephew eeke,</l>
+                  <l>For Countrey doe proteſt.</l>
+               </q>
+            </epigraph>
+         </div>
+         <div type="description_of_Knave_of_Clubs">
+            <p>TO define the Knave of Clubs, 1. I will tell you what a Knave is: 2. Which of the Knaves this is: 3. what the difference is betwixt him and his three brethren: 4. why hee is called the Knave of the Clubs.</p>
+            <p n="1">1. Of Knaves there be many ſorts, there are couſening Knaves, and wenching Knaves, prating Knaves, and promooting Knaves, &amp;c. But I need
+<pb facs="tcp:124922:5"/>not go ſo far: for the Knave of the Clubs is a Card; to go to the <hi>Spaniard,</hi> he calls him <hi>Sota,</hi> a Cavalier: they have no other name for the Knaves in their Cards: wee call them Knaves, they <hi>Sota.</hi> 2. It is not the Knave of the Hearts: for hee is a good merry Hoſt; nor the Knave of the Diamonds, hee is too gallant a Cutter; neither the Knave of the Spades, that helpes the Husband-man to digge: If you will have the truth of it, it is <hi>Tom</hi> the Fencer, that comes cracking with his Club, as if he would knock downe all before him.</p>
+            <p n="3">3. Now to tell you the difference between him, his three brethren, and o<g ref="char:EOLhyphen"/>ther Knaves, and that briefly; he and his three brethren are dead couſening knaves; all other knaves are not able to couſen us when they are dead. The verieſt cunning Knave in the world, cannot poſſibly doc us any harme when he is dead by knave<g ref="char:EOLhyphen"/>ry; but theſe dead Knaves couſen many thouſands both of their wit and money.</p>
+            <p n="4">4. To conclude, hee is called the Knave of the Clubs, becauſe hee keepes the Court of Guard for that ſuit: take him away, and there is never another Cavalier of that ſuit in the whole pack. And I could render another reaſon too: for though the Clubs of our Cards be made like a three leaved graſſe, I am ſure that the Spaniards Cards are like great Clubs, and he is pictured in his Armour with a compleat Club in his hand, and therfore is called the Cavalier, or as we ſay, the Knave of Clubs.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
